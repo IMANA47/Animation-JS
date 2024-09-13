@@ -1,5 +1,9 @@
 h3 {
     color: black;
+    margin-top: 20px;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
 }
 .box {
     color: #272525;
